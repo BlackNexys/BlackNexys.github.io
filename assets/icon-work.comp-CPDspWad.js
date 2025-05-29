@@ -1,0 +1,3 @@
+var s=Object.defineProperty;var h=(o,v,t)=>v in o?s(o,v,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[v]=t;var r=(o,v,t)=>h(o,typeof v!="symbol"?v+"":v,t);import{I as n}from"./Icon.base-DApyUaEH.js";import"./Webcomp.base-rIjdwhcW.js";class p extends n{constructor(){super(...arguments);r(this,"viewport","0 -960 960 960")}async icon(){return`
+            <path xmlns="http://www.w3.org/2000/svg" d="M160-120q-33 0-56.5-23.5T80-200v-440q0-33 23.5-56.5T160-720h160v-80q0-33 23.5-56.5T400-880h160q33 0 56.5 23.5T640-800v80h160q33 0 56.5 23.5T880-640v440q0 33-23.5 56.5T800-120H160Zm0-80h640v-440H160v440Zm240-520h160v-80H400v80ZM160-200v-440 440Z"/>
+        `}}export{p as default};
